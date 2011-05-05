@@ -13,3 +13,6 @@
 [submodule "bundle/visincr"]
 	path = bundle/visincr
 	url = https://github.com/vim-scripts/VisIncr.git
+[submodule "bundle/ruby"]
+	path = bundle/ruby
+	url = https://github.com/vim-ruby/vim-ruby.git
