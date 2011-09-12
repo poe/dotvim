@@ -1,6 +1,5 @@
 filetype off
-call pathogen#runtime_append_all_bundles() 
-call pathogen#helptags()
+call pathogen#infect()
 
 set tabstop=2|set shiftwidth=4|set expandtab
 if has("autocmd")
