@@ -1,4 +1,3 @@
-filetype off
 call pathogen#infect()
 call pathogen#incubate()
 call pathogen#helptags()
