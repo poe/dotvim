@@ -1,0 +1,15 @@
+.idea/
+.rbx/
+*.swp
+*.swo
+tmp/*
+db/*structure.sql
+db/schema.rb
+*~
+*.rbc
+/.project
+.rvmrc
+TAGS
+.tags*
+.jhw-cache
+.netrwhist
